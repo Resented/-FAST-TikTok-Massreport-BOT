@@ -5,6 +5,7 @@ python 3.8 or higher
 how to use:
     first you will have to open the file that you downloaded. now you will have to extract it.
     then go to the file you just extracted and run it.
+
 how to get proxies:free-proxy-list
     first go on this website called "proxyscrape.com/free-proxy-list"
     scroll dwn until you see "http proxies"
