@@ -27,17 +27,17 @@ how to run:
 
  how to get User-ID:
  
-first go on tiktok website.
-then go on the profile of the account that you want to report.
-then click on the 3 dots on the top right.
-select report
-select report user
-then press ctrl+shft+i
-then go to the network tab
-in the report options select other.
-in the network tab press "stop recording network log" on the top left of the network tab.
-if you see something called "reasuns_put?aid=..." click on that
-then scroll all the way down until you find "request payload"
-then you will see something called "object id:" and the number after that is the User id.
+    first go on tiktok website.
+    then go on the profile of the account that you want to report.
+    then click on the 3 dots on the top right.
+    select report
+    select report user
+    then press ctrl+shft+i
+    then go to the network tab
+    in the report options select other.
+    in the network tab press "stop recording network log" on the top left of the network tab.
+    if you see something called "reasuns_put?aid=..." click on that
+    then scroll all the way down until you find "request payload"
+    then you will see something called "object id:" and the number after that is the User id.
 
 i hope this helps
