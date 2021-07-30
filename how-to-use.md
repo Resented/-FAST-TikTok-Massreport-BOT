@@ -25,7 +25,7 @@ how to run:
     in the terminal type the following command: "cd <file location you just copied>"
     then type the following command: "py main.py"
 
- how to get User-ID:
+ how to get User-ID/Object-ID/Device-ID:
  
     first go on tiktok website.
     then go on the profile of the account that you want to report.
@@ -38,6 +38,9 @@ how to run:
     in the network tab press "stop recording network log" on the top left of the network tab.
     if you see something called "reasuns_put?aid=..." click on that
     then scroll all the way down until you find "request payload"
-    then you will see something called "object id:" and the number after that is the User id.
+    then you will see something called "Owner ID" and the number after that is the User id.
+    you will also see something called "Object ID" and that is the Object-ID
+    to get the device-ID you will need to scroll up until you see the link.
+    in that link you will find "device ID:" the number after that is your device-ID
 
 i hope this helps
